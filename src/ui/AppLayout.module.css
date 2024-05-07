@@ -1,0 +1,11 @@
+.appLayout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #e9faf5;
+  color: #03140f;
+}
+
+main {
+  flex-grow: 1;
+}

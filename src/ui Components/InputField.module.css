@@ -1,0 +1,17 @@
+.inputField {
+  width: 480px;
+  padding: 10px 20px;
+  margin: 0px auto;
+  box-sizing: border-box;
+  border: 1px solid;
+  border-color: #06281e;
+  border-radius: 8px;
+  background-color: #fafbfa;
+  transition: 0.3s;
+}
+
+.inputField:focus {
+  border-color: #36cea1;
+  box-shadow: 0 0 8px 0 #06281e;
+  scale: 1.03;
+}

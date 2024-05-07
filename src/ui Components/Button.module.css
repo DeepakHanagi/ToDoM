@@ -1,0 +1,27 @@
+button {
+  background-color: transparent;
+  border: none;
+  text-decoration: none;
+  margin: 12px 6px;
+  padding: 8px 16px;
+}
+
+.prime {
+  background-color: #1db588;
+  color: #e4f6f1;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.prime:hover {
+  background-color: #13795b;
+  border-color: #20c997;
+  transition: 3s smooth;
+}
+
+.second {
+  border: 2px solid #20c997;
+  border-radius: 8px;
+  cursor: pointer;
+}
